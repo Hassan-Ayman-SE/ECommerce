@@ -48,7 +48,7 @@ This project demonstrates an ECommerce application with three microservices: Ord
 ### 1. Clone Repository
 
 ```bash
-git clone repository link
+git clone [repository link](https://github.com/Hassan-Ayman-SE/ECommerce.git)
 cd ECommerce
 ```
 
